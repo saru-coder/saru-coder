@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Sarudzai👋
 
 <!--
 **saru-coder/saru-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
